@@ -15,7 +15,7 @@ namespace Trabalho01_DesWeb.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok("Listagem de Pacientes");
+            return Ok("Listagem de Pacientes ##");
         }
 
         [HttpGet("{id}")]
