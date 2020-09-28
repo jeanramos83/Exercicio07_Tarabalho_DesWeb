@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj": {}
+    "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj": {
+    "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
         "projectName": "Trabalho01_DesWeb",
-        "projectPath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
+        "projectPath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
         "packagesPath": "C:\\Users\\Jean Ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\obj\\",
+        "outputPath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jean Ramos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -37,6 +37,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

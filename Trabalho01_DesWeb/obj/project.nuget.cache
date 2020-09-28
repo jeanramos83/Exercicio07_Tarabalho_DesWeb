@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/uES8a64lbCW2+BojwyiQa+2HhdUTErEvkGiWED0PsulZdn807Gri5nyevz/ErqqeRMmCS83qTpEz9o7KmoWzA==",
+  "dgSpecHash": "adBs4KU/P6joRYXZtfkjPl8Mdy/bUMnI/PkV63LFB/Uqceur1VMaMO4KFICFOpU2KL4oy34VglmbC4BXm15ocQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Jean Ramos\\Desktop\\Sistemas de Informação - 4º Período\\Humberto Melo - Desenvolvimento de Aplicativos Web e Cloud Computing\\PrimeiroBimestre\\Trabalho01_DesWeb\\Trabalho01_DesWeb\\Trabalho01_DesWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jean Ramos\\.nuget\\packages\\fluentvalidation\\9.2.2\\fluentvalidation.9.2.2.nupkg.sha512"
+  ],
   "logs": []
 }
